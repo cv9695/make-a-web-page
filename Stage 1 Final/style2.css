@@ -1,0 +1,68 @@
+#TOC{
+  border: 2px solid black;
+  width: 100%;
+  text-align: left;
+  border-collapse: collapse;
+  margin-bottom: 75px;
+}
+
+
+th{
+  border: 2px solid black;
+  background-color: #FFCC00;
+  padding:5px;
+  color: black;
+  font-size: 25px;
+}
+
+td{
+  text-align: left;
+  border-right: 2px solid black;
+  border-collapse: collapse;
+  padding-left: 5px;
+  padding:5px;
+  font-size: 20px;
+}
+
+h1{
+  text-align: center;
+}
+
+.lesson{
+  background-color: #FFCC00;
+  border: 2px solid black;
+  margin: 10px auto;
+}
+
+.section{
+  background-color: #ECFFEC;
+  padding: 4px;
+  margin: 10px;
+  border: 1px solid black;
+
+
+}
+
+.section-title{
+  text-align: center;
+  font-size: 25px;
+  font-weight: bold;
+  text-decoration: underline;
+
+}
+
+.information{
+
+  font-size: 20px;
+  margin: 5px;
+
+}
+
+h2{
+  margin-left:10px;
+}
+
+.top{
+  margin:10px;
+  font-size:20px;
+}
